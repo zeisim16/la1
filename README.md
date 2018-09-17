@@ -17,4 +17,6 @@ Die ältesten Bauwerke
 2. Peterskirche
 3. UNO City
 
+Mit dem Kommando `gedit ...`wird der gnome Editor
+
 Das ist ein Link zu [Wikipedia](https://wikipedia.at/)
