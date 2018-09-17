@@ -13,8 +13,8 @@ Autoliste:
 * BMW
 
 Die ältesten Bauwerke
-1 Pyramide
-2 Peterskirche
-3 UNO City
+1. Pyramide
+2. Peterskirche
+3. UNO City
 
 Das ist ein Link zu [Wikipedia](https://wikipedia.at/)
